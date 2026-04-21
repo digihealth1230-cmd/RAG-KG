@@ -1,6 +1,6 @@
 # Beyond Lexical Similarity: Evaluating Faithfulness in LLM-Based Medical Question Reformulation
 
-This repository contains the code and evaluation framework for the paper submitted to ACL 2025.
+
 
 We introduce **MedFaith-F1**, a category-level faithfulness metric for medical query rewriting, and **EKG-RAG**, an evidence and knowledge-grounded reformulation framework. Together they expose a systematic gap between surface-level similarity metrics (ROUGE, BERTScore) and actual clinical information retention.
 
